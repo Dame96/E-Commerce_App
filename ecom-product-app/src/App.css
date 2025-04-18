@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(148, 164, 164);
+}
+
+#root p {
+  
+  font-style: italic;
+}
+
+h2 {
+  text-decoration: underline;
+  color: rgb(57, 57, 165)
+  
+}
+ 
+h3 {
+  color: green;
+}
