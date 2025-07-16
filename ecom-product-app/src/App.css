@@ -20,3 +20,28 @@ h2 {
 h3 {
   color: green;
 }
+
+
+.product-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 8px solid black;
+}
+
+.btn {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: green;
+}
+
+
+img {
+  width: 100px;
+  height: auto;
+  display: block;
+}

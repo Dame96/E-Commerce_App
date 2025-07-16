@@ -1,6 +1,7 @@
 import ProductItem from "./ProductItem";
 
-// Functional Component Mapping through array of products displaying info. 
+// importing Product Item to render data for each product. 
+// Functional Component Mapping through array of products displaying product data via map object
 
 function ProductList({ products }) {
     return (
